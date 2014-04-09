@@ -6,10 +6,10 @@
         id        = "nl.juicebv.phonegap"
         version   = "1.0.3">
 
-    <name>UMC Radboud</name>
+    <name>Radboud UMC</name>
 
     <description>
-       	UMC Radboud App
+       	Radboud UMC App
     </description>
 
     <author href="http://www.juicebv.nl" email="info@juicebv.nl">
